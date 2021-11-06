@@ -20,16 +20,7 @@ You can check if the address generation is working right [here](https://iancolem
 - ERC20 Tokens
 - Sign UTXO based transaction
 
-## Installation
-### CocoaPods
-<p>To integrate HDWalletKit into your Xcode project using <a href="http://cocoapods.org">CocoaPods</a>, specify it in your <code>Podfile</code>:</p>
-<pre><code class="ruby language-ruby">pod 'HDWalletKit'</code></pre>
 
-### Carthage
-To install with [Carthage](https://github.com/Carthage/Carthage), simply add this in your `Cartfile`:
-```ruby
-github "essentiaone/HDWallet"
-```
 ## Communication
 
 - If you **found a bug**, open an issue.
